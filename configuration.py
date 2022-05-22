@@ -1,6 +1,6 @@
 #TELEGRAM CONFIGURATION
-TELEGRAM_CHAT_ID = '@tech_alerts'
-TELEGRAM_BOT_API_KEY = 'bot1831759774:AAH9jXzAcX5oaNyf0pArzL6syysZQJuX8Zs'
+TELEGRAM_CHAT_ID = '@xxxxxxxxxx'
+TELEGRAM_BOT_API_KEY = 'botxxxxxxxxxxxx:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 
 #CRYPTO_COMPARE CONFIGURATION
 BITCOIN_URL = 'https://min-api.cryptocompare.com/data/price?fsym=BTC&tsyms=INR'
